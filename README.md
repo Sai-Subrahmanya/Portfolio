@@ -92,4 +92,4 @@ Repositories will be added here as they are published.
 
 * GitHub: https://github.com/Sai-Subrahmanya
 * LinkedIn: https://www.linkedin.com/in/sai-subrahmanya/
-* Email: saissb04@gmail.com
+* Email: b.sai.subrahmanya@gmail.com
