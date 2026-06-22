@@ -1,3 +1,5 @@
+#### The source code and project reports have not been uploaded to this GitHub account yet. All project-related source files and documentation will be made available here by the 2nd week of August 2026.
+
 # Engineering Portfolio
 
 Welcome to my engineering portfolio. This repository serves as the central navigation hub for my projects, internships, and technical work in VLSI, Embedded Systems, IoT, and Aerospace Engineering.
