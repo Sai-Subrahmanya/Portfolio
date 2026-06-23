@@ -1,4 +1,4 @@
-#### The source code and project reports have not been uploaded to this GitHub account yet. All project-related source files and documentation will be made available here by the 2nd week of August 2026.
+#### The source codes and reports of all of my projects have not been uploaded to this GitHub account yet. All project-related source files and documentation will be made available here by the 2nd week of August 2026.
 
 # Engineering Portfolio
 
